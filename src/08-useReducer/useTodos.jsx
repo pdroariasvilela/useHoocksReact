@@ -42,7 +42,7 @@ useEffect(()=>{
         handleDeleteTodo,
         handleToogle
     };
-}
+} 
 
 export default useTodo;
 
